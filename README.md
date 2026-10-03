@@ -37,6 +37,8 @@ g. Contextily — basemap visualization
 ## 🔄 Data Analysis Workflow
 
 Proses analisis dilakukan melalui beberapa tahapan:
+
+```text
 Raw Data
    ↓
 Data Inspection
